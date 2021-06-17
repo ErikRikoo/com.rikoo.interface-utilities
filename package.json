@@ -1,0 +1,9 @@
+{
+  "name": "com.rikoo.interface-utilities",
+  "displayName": "Interface Utilities",
+  "version": "0.1.0",
+  "description": "A utility package to handle more easily code interfaces in Unity",
+  "keywords": [
+    "utility"
+  ]
+}
